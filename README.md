@@ -17,5 +17,5 @@
 >   output_folder = "data"
 >   os.makedirs(output_folder, exist_ok=True)
 >   ```
-> - Adjust these values as needed.  
+> - Adjust these values as needed based on **YahooFinance API** availability.
 > - The script **`scripts/train_models.py`** will then automatically use the updated `data` to train the models and save them into the **`models`** folder.
