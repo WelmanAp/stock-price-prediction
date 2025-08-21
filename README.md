@@ -1,4 +1,4 @@
-# STOCK PRICE PREDICTION by welmanApridius
+# STOCK PRICE PREDICTION by WelmanApridius
 
 ## ✨ Key Features
 - ✅ **Stock Data Retrieval** → Uses **Yahoo Finance API** to fetch historical and **real-time** stock price data.  
